@@ -1,2 +1,0 @@
-bugfixes:
-  - Ensure tags are applied when creating or updating a template (https://github.com/ngine-io/ansible-collection-cloudstack/pull/154).
